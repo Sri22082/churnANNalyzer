@@ -1,3 +1,4 @@
+![customer_churn](https://github.com/Sri22082/churnANNalyzer/assets/92198693/c85195bf-9d42-441c-a101-9ea61cb023d4)
 # ChurnANNalyzer: Advanced Customer Churn Prediction with Artificial Neural Networks
 
 ## Project Overview
